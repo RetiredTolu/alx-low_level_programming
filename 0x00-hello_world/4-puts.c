@@ -1,11 +1,11 @@
 #include <stdio.h>
 int main(void)
-
-/**
- * main - Entry point  
- * Return: Always 0 (sucess)
- */
 {
+	/**
+	 * main - Entry point
+	 *
+	 * Return: Always 0 (Success)
+	 */
 	char aStr[] = "\"Programming is like building a multilingual puzzle";
 
 	puts(aStr);

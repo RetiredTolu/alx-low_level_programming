@@ -1,8 +1,8 @@
 #include <stdio.h>
 /*string actualization */
-int main(void)
+int main(void) /* Printing out Strings */
 {
-	char aStr[] ="\"Programming is like building a multilingual puzzle";
+	char aStr[] = "\"Programming is like building a multilingual puzzle";
 
 	puts(aStr);
 

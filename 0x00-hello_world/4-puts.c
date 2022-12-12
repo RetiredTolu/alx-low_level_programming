@@ -1,9 +1,10 @@
 #include <stdio.h>
-int main()
+/*string actualization */
+int main(void)
 {
-	char aStr[] = "Programming is like building a multilingual puzzle";
+	char aStr[] ="\"Programming is like building a multilingual puzzle";
 
 	puts(aStr);
 
-	return 0;
+	return (0);
 }

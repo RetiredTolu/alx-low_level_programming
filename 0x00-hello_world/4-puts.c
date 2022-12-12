@@ -1,6 +1,10 @@
 #include <stdio.h>
-/*string actualization */
-int main(void) /* Printing out Strings */
+int main(void)
+/**
+ *  main - Entry point
+ *  
+ *  Return: Always 0 (sucess)
+ */
 {
 	char aStr[] = "\"Programming is like building a multilingual puzzle";
 
